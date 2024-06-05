@@ -1,0 +1,164 @@
+Canvas Cap,canvas_cap,A simple cap made from sturdy canvas offering minimal head protection,HELMET,COMMON,5,0,0,1,0,0,1
+Patched Vest,patched_vest,A vest featuring various patches that provide basic torso coverage,CHESTPLATE,COMMON,7,0,0,2,0,0,0
+Roughspun Trousers,rough_trousers,Trousers woven from rough fabric comfortable but not very protective,LEGGINGS,COMMON,5,0,0,1,0,0,1
+Cobbled Shoes,cobbled_shoes,Shoes assembled from scraps barely holding together,BOOTS,COMMON,5,0,0,0,0,0,1
+Farmhand's Pitchfork,farm_pitchfork,An old pitchfork repurposed as a weapon by necessity,WEAPON,COMMON,0,0,5,1,0,0,0
+Copper Band,copper_band,A simple band made of copper showing signs of tarnish,RING,COMMON,0,0,0,0,0,3,0
+Beaded Cord,beaded_cord,A cord strung with assorted beads more decorative than useful,NECKLACE,COMMON,0,2,0,0,1,0,0
+Twine Wrap,twine_wrap,A makeshift bracelet made from garden twine,BRACELET,COMMON,3,0,1,0,0,1,0
+Stick,stick,It's just a basic stick,WEAPON,COMMON,0,0,1,0,0,0,0
+Tattered Cloak,tattered_cloak,A cloak with numerous holes and tears,HELMET,COMMON,2,0,0,1,0,0,0
+Rusty Sword,rusty_sword,A sword covered in rust barely functional,WEAPON,COMMON,0,0,3,1,0,0,0
+Worn Gloves,worn_gloves,Gloves that have seen better days,BRACELET,COMMON,1,0,2,0,0,0,1
+Old Boots,old_boots,A pair of old worn-out boots,BOOTS,COMMON,4,0,0,0,0,0,2
+Frayed Belt,frayed_belt,A belt that's frayed at the edges,BRACELET,COMMON,0,0,0,0,0,2,1
+Cracked Shield,cracked_shield,A shield with a large crack down the middle,CHESTPLATE,COMMON,8,0,0,2,0,0,-1
+Bent Dagger,bent_dagger,A dagger that's been bent out of shape,WEAPON,COMMON,0,0,2,1,0,0,0
+Torn Scarf,torn_scarf,A scarf that's seen better days,NECKLACE,COMMON,1,1,0,0,1,0,0
+Loose Sandals,loose_sandals,Sandals that don't fit well,BOOTS,COMMON,3,0,0,0,0,0,1
+Chipped Axe,chipped_axe,An axe with a chipped blade,WEAPON,COMMON,0,0,4,2,0,0,-1
+Simple Ring,simple_ring,A plain and unadorned ring,RING,COMMON,0,1,0,0,0,2,0
+Dull Helmet,dull_helmet,A helmet that's lost its shine,HELMET,COMMON,4,0,0,2,0,0,0
+Stiff Gloves,stiff_gloves,Gloves that are too stiff to move easily,BRACELET,COMMON,0,0,1,0,0,-2,1
+Basic Shirt,basic_shirt,A basic shirt providing minimal protection,CHESTPLATE,COMMON,3,0,0,1,0,0,0
+Old Necklace,old_necklace,A necklace passed down through generations,NECKLACE,COMMON,0,3,0,0,2,0,0
+Wooden Club,wooden_club,A club carved from a sturdy branch,WEAPON,COMMON,0,0,2,1,0,0,0
+Patchy Pants,patchy_pants,Pants with patches sewn on,CHESTPLATE,COMMON,4,0,0,1,0,0,0
+Faded Cloak,faded_cloak,A cloak that has faded over time,HELMET,COMMON,3,0,0,1,0,0,0
+Scratched Glasses,scratched_glasses,Glasses that are difficult to see through,HELMET,COMMON,0,2,0,0,1,0,0
+Cloth Gloves,cloth_gloves,Gloves made from thin cloth,BRACELET,COMMON,1,0,1,0,0,0,1
+Rough Necklace,rough_necklace,A necklace made from rough materials,NECKLACE,COMMON,0,1,0,0,1,0,0
+Rusty Helmet,rusty_helmet,A helmet that offers poor protection,HELMET,COMMON,2,0,0,1,0,0,0
+Torn Boots,torn_boots,Boots that are falling apart,BOOTS,COMMON,2,0,0,0,0,0,1
+Splintered Staff,splintered_staff,A staff with many splinters,WEAPON,COMMON,0,0,3,0,1,0,0
+Brittle Shield,brittle_shield,A shield that's not very durable,CHESTPLATE,COMMON,5,0,0,2,0,0,-1
+Plain Ring,plain_ring,A ring with no distinguishing features,RING,COMMON,0,0,0,0,0,2,0
+Worn Hat,worn_hat,A hat that's seen better days,HELMET,COMMON,3,0,0,1,0,0,0
+Faded Bracelet,faded_bracelet,A bracelet whose colors have faded,BRACELET,COMMON,0,0,1,0,0,0,1
+Heavy Belt,heavy_belt,A belt that's too heavy,BRACELET,COMMON,0,0,0,0,-1,2,0
+Lightweight Boots,lightweight_boots,Boots that are very light,BOOTS,COMMON,2,0,0,0,0,0,3
+Rusted Sword,rusted_sword,An old sword covered in rust,WEAPON,COMMON,0,0,2,1,0,0,0
+Stained Cloak,stained_cloak,A cloak covered in stains,HELMET,COMMON,2,0,0,1,0,0,0
+Worn Out Ring,worn_out_ring,A ring that has worn out over time,RING,COMMON,0,0,0,0,0,1,0
+Old Amulet,old_amulet,An amulet that has lost its luster,NECKLACE,COMMON,0,2,0,0,1,0,0
+Ripped Pants,ripped_pants,Pants with numerous rips and tears,LEGGINGS,COMMON,3,0,0,1,0,0,0
+Dull Knife,dull_knife,A knife that's not very sharp,WEAPON,COMMON,0,0,1,1,0,0,0
+Loose Bracelet,loose_bracelet,A bracelet that doesn't fit well,BRACELET,COMMON,0,0,0,0,0,1,1
+Broken Shield,broken_shield,A shield that's barely holding together,CHESTPLATE,COMMON,6,0,0,1,0,0,-1
+Rusty Helmet,rusty_helmet,A Helmet that offers poor protection,HELMET,COMMON,2,0,0,1,0,0,0
+Mystic Hood,mystic_hood,A hood that faintly glows with magical energy,HELMET,COMMON,2,5,0,0,3,-1,0
+Enchanted Robe,enchanted_robe,A robe imbued with basic enchantments,CHESTPLATE,COMMON,3,10,0,0,5,0,-1
+Wizard's Pants,wizard_pants,Pants worn by novice wizards,LEGGINGS,COMMON,2,7,0,0,4,0,0
+Magic Slippers,magic_slippers,Slippers that slightly enhance magical abilities,BOOTS,COMMON,1,8,0,0,3,0,1
+Sorcerer's Wand,sorcerer_wand,A wand used by beginner sorcerers,WEAPON,COMMON,0,5,0,0,5,0,0
+Arcane Ring,arcane_ring,A ring that enhances arcane knowledge,RING,COMMON,0,5,0,0,5,-2,0
+Mystical Necklace,mystical_necklace,A necklace that radiates faint magical power,NECKLACE,COMMON,1,7,0,0,4,0,0
+Magical Bracelet,magical_bracelet,A bracelet that slightly boosts mana,BRACELET,COMMON,0,6,0,0,3,-1,0
+Apprentice's Staff,apprentice_staff,A staff used by magic apprentices,WEAPON,COMMON,0,8,0,-1,5,0,0
+Enchanted Cloak,enchanted_cloak,A cloak that provides minor magical protection,HELMET,COMMON,2,6,0,0,4,0,-1
+Iron Casque,iron_casque,A helmet made from solid iron offering good protection,HELMET,RARE,10,0,0,5,0,0,0
+Studded Chestplate,studded_chestplate,Leather armor studded with iron for added durability,CHESTPLATE,RARE,20,0,2,7,0,0,5
+Chainmail Greaves,chainmail_greaves,Greaves made from interlinked chains that provide flexibility and defense,LEGGINGS,RARE,15,0,0,6,0,0,10
+Reinforced Moccasins,reinforced_moccasins,Soft moccasins reinforced with hide blending comfort and protection,BOOTS,RARE,10,0,0,3,0,0,5
+Glinting Dagger,glinting_dagger,A small dagger that glints dangerously under light,WEAPON,RARE,0,0,10,1,0,3,0
+Silver Ring,silver_ring,A silver ring with mysterious runes that suggest hidden power,RING,RARE,5,5,0,5,5,5,0
+Jade Pendant,jade_pendant,A pendant carved from jade believed to bring luck,NECKLACE,RARE,20,5,0,0,10,0,0
+Iron Bangle,iron_bangle,A heavy iron bangle that can withstand rough treatment,BRACELET,RARE,0,2,5,0,0,10,5
+Steel Helm,steel_helm,A helm forged from steel providing excellent defense,HELMET,RARE,15,0,0,10,0,0,0
+Mage's Robe,mage_robe,A robe worn by advanced mages,CHESTPLATE,RARE,10,15,0,0,12,0,-5
+Sorcerer's Leggings,sorcerer_leggings,Leggings that boost magical power,LEGGINGS,RARE,8,20,0,0,15,0,0
+Swift Boots,swift_boots,Boots that increase the wearer's speed significantly,BOOTS,RARE,5,0,0,0,0,5,15
+Dragon's Tooth,dragon_tooth,A weapon crafted from a dragon's tooth,WEAPON,RARE,0,0,18,5,0,0,-5
+Emerald Ring,emerald_ring,A ring adorned with an emerald enhancing the wearer's mana,RING,RARE,5,20,0,0,10,-5,0
+Amulet of Insight,amulet_insight,An amulet that grants the wearer enhanced perception,NECKLACE,RARE,0,15,0,0,15,0,0
+Warrior's Gauntlet,warrior_gauntlet,A gauntlet that boosts physical strength,BRACELET,RARE,10,0,15,0,0,0,-5
+Battle Helm,battle_helm,A helm worn by seasoned warriors,HELMET,RARE,12,0,5,10,0,0,0
+Enchanted Chestplate,enchanted_chestplate,A chestplate with minor enchantments,CHESTPLATE,RARE,25,10,0,5,10,0,0
+Agile Greaves,agile_greaves,Greaves that enhance the wearer's agility,LEGGINGS,RARE,10,0,0,3,0,0,15
+Sturdy Boots,sturdy_boots,Heavy boots that offer great protection,BOOTS,RARE,15,0,0,7,0,0,5
+Flaming Sword,flaming_sword,A sword that burns with an eternal flame,WEAPON,RARE,0,0,20,0,0,0,-10
+Mystic Ring,mystic_ring,A ring that increases magical prowess,RING,RARE,5,10,0,0,15,-5,0
+Crystal Necklace,crystal_necklace,A necklace with a large crystal boosting mana,NECKLACE,RARE,10,20,0,0,10,0,0
+Protector's Shield,protector_shield,A shield that provides excellent defense,CHESTPLATE,RARE,30,0,0,20,0,0,-10
+Spellbound Gauntlet,spellbound_gauntlet,A gauntlet that enhances spell casting,BRACELET,RARE,0,15,0,0,20,-5,0
+Fortified Helm,fortified_helm,A helm reinforced with magic,HELMET,RARE,20,0,0,15,5,0,0
+Knight's Chestplate,knight_chestplate,A chestplate worn by knights offering balanced protection,CHESTPLATE,RARE,25,0,5,10,0,0,0
+Silent Steps,silent_steps,Boots that make the wearer move silently,BOOTS,RARE,5,0,0,0,0,5,20
+Sorcerer's Staff,sorcerer_staff,A staff used by powerful sorcerers,WEAPON,RARE,0,20,0,-5,15,0,0
+Ruby Ring,ruby_ring,A ring with a ruby enhancing physical and magical power,RING,RARE,10,10,5,0,10,-5,0
+Warrior's Necklace,warrior_necklace,A necklace that boosts strength and defense,NECKLACE,RARE,10,0,15,10,0,0,-5
+Ancient Bracers,ancient_bracers,Bracers from an ancient civilization,BRACELET,RARE,5,10,0,0,15,0,-5
+Berserker's Helm,berserker_helm,A helm that enhances combat abilities,HELMET,RARE,10,0,20,5,0,0,-5
+Guardian's Shield,guardian_shield,A shield that provides formidable defense,CHESTPLATE,RARE,35,0,0,25,0,0,-15
+Seer's Amulet,seer_amulet,An amulet that grants visions of the future,NECKLACE,RARE,0,20,0,0,15,-5,0
+Helm of the Griffin,helm_griffin,A majestic helmet adorned with griffin feathers inspiring fear and awe,HELMET,EPIC,25,-5,15,20,5,-10,10
+Breastplate of Valor,breastplate_valor,A finely crafted breastplate symbolizing valor,CHESTPLATE,EPIC,30,0,20,25,-10,0,5
+Leggings of the Phoenix,leggings_phoenix,Leggings that grant agility and resilience,LEGGINGS,EPIC,20,10,-10,15,0,5,30
+Swiftstride Boots,swiftstride_boots,Boots that magically enhance the wearer's speed,BOOTS,EPIC,15,-5,-5,5,0,0,40
+Crescent Moon Blade,crescent_moon_blade,A blade shaped like a crescent moon sharp and deadly,WEAPON,EPIC,0,-10,40,0,0,5,-20
+Band of Foresight,band_foresight,A ring that grants the wearer brief glimpses of the future,RING,EPIC,5,10,-5,0,20,-10,0
+Starfall Amulet,starfall_amulet,An amulet that enhances magical abilities,NECKLACE,EPIC,10,35,0,-10,25,0,5
+Bracelet of Binding,bracelet_binding,A bracelet that can magically bind opponents,BRACELET,EPIC,0,0,-10,-5,15,30,-10
+Helm of the Dragon,helm_dragon,A helm forged from dragon scales,HELMET,EPIC,30,0,25,35,-15,0,-10
+Mystic Chestguard,mystic_chestguard,A chestguard imbued with mystical energy,CHESTPLATE,EPIC,25,25,-5,20,30,-10,-10
+Leggings of the Storm,leggings_storm,Leggings that crackle with electrical energy,LEGGINGS,EPIC,15,0,0,25,20,-15,15
+Boots of the Wanderer,boots_wanderer,Boots that enhance endurance and agility,BOOTS,EPIC,20,-10,-5,10,0,0,40
+Sword of the Ancients,sword_ancients,A sword passed down through generations,WEAPON,EPIC,-10,-5,45,10,5,0,-5
+Ring of Eternity,ring_eternity,A ring that grants eternal life,RING,EPIC,20,40,-15,0,35,-20,-10
+Necklace of the Stars,necklace_stars,A necklace that holds the power of the stars,NECKLACE,EPIC,15,50,-10,0,40,-20,-5
+Bracers of Might,bracers_might,Bracers that significantly boost physical strength,BRACELET,EPIC,-10,-5,50,0,5,5,-20
+Titan's Helm,titan_helm,A helm that grants the wearer immense strength,HELMET,EPIC,40,-10,30,25,-20,0,0
+Sorcerer's Vest,sorcerer_vest,A vest worn by powerful sorcerers,CHESTPLATE,EPIC,10,50,-5,-5,40,-10,5
+Leggings of Shadows,leggings_shadows,Leggings that grant stealth and speed,LEGGINGS,EPIC,-5,0,0,10,-20,5,50
+Boots of Resilience,boots_resilience,Boots that offer great protection and agility,BOOTS,EPIC,25,-10,5,20,-15,0,25
+Blade of the Night,blade_night,A sword that excels in darkness,WEAPON,EPIC,0,-15,50,-5,0,5,10
+Ring of Wisdom,ring_wisdom,A ring that significantly boosts intelligence,RING,EPIC,10,40,-10,0,45,-20,5
+Amulet of Power,amulet_power,An amulet that greatly enhances magical power,NECKLACE,EPIC,10,45,-5,-10,50,-15,5
+Bracers of the Guardian,bracers_guardian,Bracers that offer balanced protection and strength,BRACELET,EPIC,20,0,35,20,-10,5,-5
+Helm of the Warrior,helm_warrior,A helm worn by legendary warriors,HELMET,EPIC,50,-10,30,25,-25,0,5
+Arcane Chestplate,arcane_chestplate,A chestplate that enhances magical defense,CHESTPLATE,EPIC,35,40,-5,15,40,-20,0
+Leggings of the Wind,leggings_wind,Leggings that grant the wearer unparalleled speed,LEGGINGS,EPIC,15,-5,-5,10,0,0,50
+Boots of the Bear,boots_bear,Boots that offer immense strength and defense,BOOTS,EPIC,40,-10,35,25,-20,0,0
+Sword of the Sun,sword_sun,A sword that radiates the power of the sun,WEAPON,EPIC,5,-10,50,10,-5,5,0
+Ring of the Phoenix,ring_phoenix,A ring that grants the wearer regenerative abilities,RING,EPIC,25,35,-10,0,30,-15,5
+Crown of the Lost King,crown_lost_king,A legendary crown said to bestow leadership and courage,HELMET,LEGENDARY,60,0,10,50,0,-20,30
+Armor of the Fallen,armor_fallen,Armor worn by a hero of a forgotten era imbued with their spirit,CHESTPLATE,LEGENDARY,70,0,20,60,-30,0,10
+Echoes of Eternity,echoes_eternity,Leggings that resonate with the echoes of past battles increasing agility,LEGGINGS,LEGENDARY,50,0,-20,30,0,0,75
+Boots of the Phantom,boots_phantom,Ethereal boots that allow the wearer to move silently,BOOTS,LEGENDARY,40,-15,0,10,0,0,75
+Blade of Endless Wars,blade_endless_wars,A powerful blade that grows sharper with each battle,WEAPON,LEGENDARY,0,-20,75,20,0,0,-50
+Ring of Infinite Truths,ring_infinite_truths,A ring that reveals hidden truths to the wearer,RING,LEGENDARY,30,50,-10,0,75,-25,0
+Locket of Last Light,locket_last_light,A locket containing a fragment of the last sunset offering protection,NECKLACE,LEGENDARY,50,75,0,0,50,-50,0
+Gauntlet of Power,gauntlet_power,A gauntlet that greatly enhances the wearer's physical strength,BRACELET,LEGENDARY,20,-30,75,10,0,0,-20
+Helm of Eternal Light,helm_eternal_light,A helm that shines with an unending light,HELMET,LEGENDARY,75,0,20,50,0,-25,20
+Breastplate of the Immortal,breastplate_immortal,A breastplate that grants near immortality,CHESTPLATE,LEGENDARY,75,50,0,60,0,-40,0
+Leggings of the Void,leggings_void,Leggings that draw energy from the void,LEGGINGS,LEGENDARY,30,-50,0,40,75,-20,50
+Boots of the Tempest,boots_tempest,Boots that allow the wearer to move like the wind,BOOTS,LEGENDARY,25,0,0,10,0,0,75
+Sword of the Eclipse,sword_eclipse,A sword that harnesses the power of an eclipse,WEAPON,LEGENDARY,-20,-30,75,10,0,0,30
+Ring of the Arcane,ring_arcane,A ring that holds ancient arcane power,RING,LEGENDARY,20,75,-10,0,60,-30,10
+Amulet of the Seraphim,amulet_seraphim,An amulet blessed by the seraphim,NECKLACE,LEGENDARY,40,75,0,0,50,-50,20
+Bracers of the Colossus,bracers_colossus,Bracers that endow the wearer with colossal strength,BRACELET,LEGENDARY,30,-40,75,20,0,0,-30
+Helm of the Titan,helm_titan,A helm that grants the wearer the strength of a titan,HELMET,LEGENDARY,75,-20,50,40,-30,0,0
+Armor of the Guardian,armor_guardian,Armor that provides unparalleled protection,CHESTPLATE,LEGENDARY,75,0,20,75,0,-50,0
+Leggings of the Gale,leggings_gale,Leggings that allow the wearer to move with the speed of the wind,LEGGINGS,LEGENDARY,20,0,-10,20,0,0,75
+Boots of the Inferno,boots_inferno,Boots that burn with the flames of the inferno,BOOTS,LEGENDARY,50,-25,30,20,0,0,75
+Blade of the Phoenix,blade_phoenix,A sword that embodies the rebirth of the phoenix,WEAPON,LEGENDARY,0,50,75,-10,0,0,-40
+Ring of the Elementalist,ring_elementalist,A ring that grants control over the elements,RING,LEGENDARY,25,75,-20,0,60,-35,0
+Necklace of the Oracle,necklace_oracle,A necklace that grants visions of the future,NECKLACE,LEGENDARY,30,75,0,-10,75,-50,10
+Bracers of the Behemoth,bracers_behemoth,Bracers that endow the wearer with behemoth strength,BRACELET,LEGENDARY,20,-50,75,30,0,0,-30
+Helm of the Overlord,helm_overlord,A helm that grants dominion over foes,HELMET,LEGENDARY,75,-30,50,40,-25,0,10
+Diadem of the Cosmos,diadem_cosmos,A diadem containing the essence of the cosmos granting vast knowledge,HELMET,MYTHICAL,80,100,-50,20,100,-50,20
+Crown of Eternity,crown_eternity,A crown that bestows eternal life and immense power,HELMET,MYTHICAL,100,50,50,75,-50,-25,50
+Vest of the Archmage,vest_archmage,A mystical vest that amplifies magical power tremendously,CHESTPLATE,MYTHICAL,50,100,0,50,100,-75,0
+Chestplate of the Dragon,dragon_chestplate,Armor forged from the scales of an ancient dragon,CHESTPLATE,MYTHICAL,100,25,75,100,-50,0,-25
+Shadowsilk Leggings,shadowsilk_leggings,Leggings crafted from silk that blends perfectly with the shadows,LEGGINGS,MYTHICAL,40,0,-30,30,50,20,100
+Leggings of the Divine,leggings_divine,Leggings that grant the wearer divine speed and protection,LEGGINGS,MYTHICAL,75,50,0,40,50,10,75
+Mirage Walkers,mirage_walkers,Boots that can alter reality allowing the wearer to vanish and reappear,BOOTS,MYTHICAL,30,0,-40,10,50,20,100
+Boots of the Celestial,boots_celestial,Boots that grant the wearer celestial agility and power,BOOTS,MYTHICAL,50,25,25,50,25,0,100
+Eternity's Edge,eternity_edge,A sword that can cut through the fabric of time itself,WEAPON,MYTHICAL,-50,0,100,50,25,0,50
+Sword of the Gods,sword_gods,A sword blessed by the gods granting unmatched power,WEAPON,MYTHICAL,0,0,100,75,50,0,-25
+Circle of the Ancients,circle_ancients,A ring that bestows the wisdom of ancient civilizations,RING,MYTHICAL,50,75,-25,25,100,-50,0
+Ring of the Immortal,ring_immortal,A ring that grants the wearer immortal life and power,RING,MYTHICAL,75,100,-50,0,50,-25,25
+Heart of the Ocean,heart_ocean,A necklace that controls the very tides and moods of the seas,NECKLACE,MYTHICAL,50,100,-25,0,75,0,-50
+Amulet of the Eternal,amulet_eternal,An amulet that grants the wearer eternal magical energy,NECKLACE,MYTHICAL,40,100,0,-25,100,0,-50
+Bindings of Fate,bindings_fate,Bracelets that can alter fate weaving new destinies,BRACELET,MYTHICAL,0,50,-50,25,100,25,75
+Gauntlet of the Gods,gauntlet_gods,Gauntlets that grant the wearer godlike strength and resilience,BRACELET,MYTHICAL,100,-25,100,75,-50,50,0

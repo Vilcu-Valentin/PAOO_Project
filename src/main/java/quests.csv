@@ -1,0 +1,199 @@
+Training Day,Complete basic training,qexploration,1,1,20,EXPLORATION
+Goblin Trouble,Defeat 5 goblins,qcombat,1,2,30,COMBAT
+Herb Gathering,Collect healing herbs,qgathering,1,1,15,GATHERING
+New Recruit,Reach level 2,qsurvival,1,1,10,SURVIVAL
+Forest Patrol,Patrol the nearby forest,qexploration,1,3,40,EXPLORATION
+Bandit Skirmish,Defeat bandit scouts,qcombat,1,3,50,COMBAT
+Village Guard,Protect the village,qdefense,1,2,25,DEFENSE
+Apprentice Training,Learn basic spells,qmagic,1,2,35,MAGIC
+Lost Puppy,Find the lost puppy,qexploration,1,1,10,EXPLORATION
+Potion Ingredients,Gather ingredients for a potion,qgathering,1,2,30,GATHERING
+Weapon Practice,Train with wooden weapons,qcombat,2,2,40,COMBAT
+Novice Journey,Reach level 3,qsurvival,2,1,25,SURVIVAL
+River Crossing,Cross the dangerous river,qexploration,2,3,60,EXPLORATION
+Wolf Hunt,Hunt the rogue wolf,qcombat,2,3,50,COMBAT
+Farm Defense,Defend the farm from pests,qdefense,2,2,35,DEFENSE
+Mystic Training,Learn an advanced spell,qmagic,2,3,55,MAGIC
+Mushroom Gathering,Gather rare mushrooms,qgathering,2,2,45,GATHERING
+Map the Woods,Explore and map the woods,qexploration,2,2,50,EXPLORATION
+Herbal Remedy,Collect herbs for a remedy,qgathering,3,2,60,GATHERING
+Orc Battle,Defeat the orc warrior,qcombat,3,3,90,COMBAT
+Village Watch,Guard the village at night,qdefense,3,2,55,DEFENSE
+Adept Journey,Reach level 4,qsurvival,3,1,35,SURVIVAL
+Secret Cave,Explore the hidden cave,qexploration,3,3,80,EXPLORATION
+Magic Experiment,Assist in a magic experiment,qmagic,3,3,75,MAGIC
+Lost Treasure,Find the hidden treasure,qexploration,3,2,70,EXPLORATION
+Bandit Ambush,Survive a bandit ambush,qcombat,4,3,100,COMBAT
+Cursed Forest,Investigate the cursed forest,qexploration,4,3,110,EXPLORATION
+Potion Master,Create a powerful potion,qmagic,4,2,90,MAGIC
+Goblin Chief,Defeat the goblin chief,qcombat,4,3,120,COMBAT
+Fortress Defense,Defend the fortress,qdefense,4,2,85,DEFENSE
+Alchemical Research,Research new alchemical recipes,qmagic,4,3,115,MAGIC
+Hunt the Beast,Hunt the wild beast,qcombat,4,3,100,COMBAT
+Miner's Request,Find precious minerals,qgathering,4,2,95,GATHERING
+Jungle Expedition,Explore the deep jungle,qexploration,5,3,150,EXPLORATION
+Mountain Patrol,Patrol the mountain path,qcombat,5,3,130,COMBAT
+Temple Guardian,Protect the ancient temple,qdefense,5,3,140,DEFENSE
+Master's Challenge,Complete the master's challenge,qsurvival,5,2,110,SURVIVAL
+Herbalist's Task,Collect rare herbs,qgathering,5,2,105,GATHERING
+Dragon Scout,Scout the dragon's lair,qexploration,5,3,160,EXPLORATION
+Magic Ritual,Perform a magic ritual,qmagic,5,2,140,MAGIC
+Elite Training,Train with the elite warriors,qcombat,5,3,180,COMBAT
+Village Savior,Save the village from attack,qdefense,5,3,200,DEFENSE
+Ancient Tome,Find the ancient tome,qexploration,5,2,120,EXPLORATION
+Swamp Expedition,Explore the dangerous swamp,qexploration,6,3,160,EXPLORATION
+Guardian's Duty,Protect the village from monsters,qdefense,6,4,200,DEFENSE
+Ancient Library,Find the hidden library,qexploration,6,3,170,EXPLORATION
+Elemental Mastery,Master elemental magic,qmagic,6,5,250,MAGIC
+Orc Raid,Defeat the orc raiders,qcombat,6,4,220,COMBAT
+Herbal Elixirs,Create powerful elixirs,qgathering,6,3,180,GATHERING
+Mountain Climb,Climb the treacherous mountain,qsurvival,6,3,150,SURVIVAL
+Dark Ritual,Disrupt the dark ritual,qmagic,6,4,240,MAGIC
+Cave Defense,Defend the miners from creatures,qdefense,6,3,210,DEFENSE
+Tiger Hunt,Hunt the elusive tiger,qcombat,6,4,270,COMBAT
+Wasteland Patrol,Patrol the dangerous wasteland,qexploration,7,3,190,EXPLORATION
+Mystic Gathering,Collect mystical items,qgathering,7,2,200,GATHERING
+Fortress Assault,Assault the enemy fortress,qcombat,7,5,300,COMBAT
+Storm Master,Control the storm magic,qmagic,7,4,270,MAGIC
+Desert Survival,Survive the desert expedition,qsurvival,7,3,175,SURVIVAL
+Necromancer's Lair,Defeat the necromancer,qcombat,7,5,290,COMBAT
+Village Protector,Defend the village from attack,qdefense,7,4,250,DEFENSE
+Cursed Forest,Investigate the cursed forest,qexploration,7,3,220,EXPLORATION
+Dragon's Hoard,Find the dragon's treasure,qexploration,8,4,250,EXPLORATION
+Alchemist's Dream,Create a legendary potion,qgathering,8,3,220,GATHERING
+Undead Siege,Defend against the undead,qdefense,8,5,350,DEFENSE
+Master Scout,Map the enemy territory,qscout,8,4,290,SCOUT
+Warrior's Challenge,Win the combat tournament,qcombat,8,5,330,COMBAT
+Mage's Tower,Explore the mysterious tower,qmagic,8,4,300,MAGIC
+Jungle Rescue,Rescue the lost adventurers,qexploration,8,3,270,EXPLORATION
+Sky Fortress,Assault the sky fortress,qcombat,9,5,380,COMBAT
+Lava Pits,Survive the lava pits expedition,qsurvival,9,4,300,SURVIVAL
+Elder Dragon,Defeat the elder dragon,qcombat,9,5,400,COMBAT
+Mystic Artifact,Retrieve the mystic artifact,qmagic,9,4,360,MAGIC
+Castle Siege,Lead the siege on the enemy castle,qdefense,9,5,380,DEFENSE
+Forbidden Knowledge,Uncover forbidden knowledge,qexploration,9,3,290,EXPLORATION
+Tundra Expedition,Explore the frozen tundra,qexploration,10,4,450,EXPLORATION
+Demon Hunt,Hunt the powerful demon,qcombat,10,5,500,COMBAT
+Sorcerer's Quest,Defeat the dark sorcerer,qmagic,10,5,550,MAGIC
+Guardian of the Realm,Protect the realm from invaders,qdefense,10,5,500,DEFENSE
+Lost Civilization,Discover the lost civilization,qexploration,10,4,420,EXPLORATION
+Battle for Glory,Win the grand tournament,qcombat,10,5,520,COMBAT
+Forest Guardian,Defend the enchanted forest,qdefense,10,4,450,DEFENSE
+Hero's Trial,Complete the hero's trial,qsurvival,10,4,480,SURVIVAL
+Mage's Challenge,Master the arcane arts,qmagic,10,5,530,MAGIC
+Enchanted Grove,Explore the enchanted grove,qexploration,11,3,450,EXPLORATION
+Battle Commander,Lead the battlefield charge,qcombat,11,5,500,COMBAT
+Mystic Woods,Investigate the mystic woods,qexploration,11,4,470,EXPLORATION
+Sorcerer's Challenge,Defeat the sorcerer,qmagic,11,6,600,MAGIC
+Monster Invasion,Defend the village from monsters,qdefense,11,5,550,DEFENSE
+Ancient Runes,Decode the ancient runes,qmagic,11,3,420,MAGIC
+Mountain Expedition,Map the mountain caves,qexploration,11,4,480,EXPLORATION
+Beast Hunt,Track and hunt the beast,qcombat,11,5,590,COMBAT
+Herbal Remedies,Collect rare herbs for potions,qgathering,11,3,430,GATHERING
+Warlord's Fortress,Siege the warlord's fortress,qcombat,11,6,600,COMBAT
+Storm the Castle,Lead the attack on the castle,qdefense,12,6,680,DEFENSE
+Ice Caverns,Explore the ice caverns,qexploration,12,4,500,EXPLORATION
+Summoner's Circle,Disrupt the summoner's ritual,qmagic,12,5,720,MAGIC
+Savage Lands,Survive the savage lands expedition,qsurvival,12,3,480,SURVIVAL
+Elite Scouts,Map enemy territory,qscout,12,4,540,SCOUT
+Arcane Secrets,Uncover arcane secrets,qmagic,12,5,650,MAGIC
+Mountain Guardian,Defend the mountain pass,qdefense,12,5,640,DEFENSE
+Demon's Lair,Defeat the demon lord,qcombat,12,6,720,COMBAT
+Swamp Rescue,Rescue villagers from the swamp,qexploration,12,4,510,EXPLORATION
+Cursed Village,Investigate the cursed village,qexploration,13,5,780,EXPLORATION
+Dragon's Nest,Destroy the dragon's nest,qcombat,13,6,830,COMBAT
+Mystic Portal,Close the mystic portal,qmagic,13,5,750,MAGIC
+Warrior's Honor,Win the honor duel,qcombat,13,5,800,COMBAT
+Ancient Guardians,Defeat the ancient guardians,qcombat,13,6,820,COMBAT
+Forbidden Tomb,Explore the forbidden tomb,qexploration,13,4,600,EXPLORATION
+Shadow Assassins,Defeat the shadow assassins,qscout,14,5,910,SCOUT
+Sunken Temple,Explore the sunken temple,qexploration,14,5,880,EXPLORATION
+Dragon Slayer,Slay the ancient dragon,qcombat,14,6,910,COMBAT
+Arcane Tower,Conquer the arcane tower,qmagic,14,6,900,MAGIC
+Fortress Defense,Defend the fortress from invaders,qdefense,14,5,870,DEFENSE
+Eternal Forest,Explore the eternal forest,qexploration,14,4,750,EXPLORATION
+Grand Tournament,Win the grand tournament,qcombat,15,6,1000,COMBAT
+Mystic Trials,Complete the mystic trials,qmagic,15,5,930,MAGIC
+King's Guard,Protect the king from assassins,qdefense,15,6,980,DEFENSE
+Warrior's Path,Defeat the enemy warlord,qcombat,15,6,990,COMBAT
+Lost City,Discover the lost city,qexploration,15,4,800,EXPLORATION
+Blood Ritual,Stop the blood ritual,qmagic,15,6,960,MAGIC
+Underworld Journey,Journey to the underworld,qexploration,15,5,950,EXPLORATION
+Dragon's Wrath,Defeat the enraged dragon,qcombat,16,7,1100,COMBAT
+Mystic Archives,Explore the mystic archives,qexploration,16,5,950,EXPLORATION
+Guardian's Trial,Complete the guardian's trial,qdefense,16,6,1250,DEFENSE
+Ancient Ritual,Disrupt the ancient ritual,qmagic,16,7,1200,MAGIC
+Beastmaster's Hunt,Hunt the legendary beast,qcombat,16,8,1250,COMBAT
+Frozen Wastes,Survive the frozen wasteland,qsurvival,16,4,900,SURVIVAL
+Shadow Infiltration,Infiltrate the enemy fortress,qscout,16,6,1150,SCOUT
+Enchanter's Test,Pass the enchanter's test,qmagic,16,5,1050,MAGIC
+Warrior's Siege,Lead the siege on the enemy stronghold,qcombat,16,8,1250,COMBAT
+Forest Guardian,Protect the sacred forest,qdefense,16,5,1000,DEFENSE
+Demon's Return,Defeat the returning demon lord,qcombat,17,8,1480,COMBAT
+Ancient Secrets,Uncover the ancient secrets,qexploration,17,5,1000,EXPLORATION
+Mystic Conclave,Attend the mystic conclave,qmagic,17,6,1250,MAGIC
+Sky Kingdom,Explore the sky kingdom,qexploration,17,6,1100,EXPLORATION
+Warlord's Demise,Defeat the enemy warlord,qcombat,17,7,1400,COMBAT
+Cursed Citadel,Explore the cursed citadel,qexploration,17,5,975,EXPLORATION
+Alchemist's Dream,Create the ultimate elixir,qgathering,17,6,1150,GATHERING
+Mountain King,Defend the mountain king's realm,qdefense,17,7,1350,DEFENSE
+Sorcerer's Gambit,Win the sorcerer's challenge,qmagic,17,7,1450,MAGIC
+Battle of Legends,Win the legendary battle,qcombat,17,8,1480,COMBAT
+Eternal Flame,Retrieve the eternal flame,qexploration,18,6,1250,EXPLORATION
+Dragon's Lair,Conquer the dragon's lair,qcombat,18,8,1670,COMBAT
+Mystic Council,Join the mystic council,qmagic,18,7,1500,MAGIC
+Titan's War,Survive the titan's onslaught,qcombat,18,8,1600,COMBAT
+Sacred Grove,Protect the sacred grove,qdefense,18,7,1400,DEFENSE
+Crystal Caverns,Explore the crystal caverns,qexploration,18,6,1300,EXPLORATION
+Demon's Fortress,Conquer the demon's fortress,qcombat,19,8,1800,COMBAT
+Arcane Mastery,Master the arcane arts,qmagic,19,7,1700,MAGIC
+King's Siege,Lead the siege on the king's castle,qcombat,19,8,1800,COMBAT
+Mythic Beast,Defeat the mythic beast,qcombat,19,8,1750,COMBAT
+Elder's Challenge,Complete the elder's challenge,qexploration,19,6,1450,EXPLORATION
+Guardian's Legacy,Protect the guardian's legacy,qdefense,19,7,1550,DEFENSE
+Hero's Endgame,Finish the hero's journey,qcombat,20,8,1990,COMBAT
+Ancient Guardian,Defeat the ancient guardian,qcombat,20,8,1900,COMBAT
+Mystic Realm,Explore the mystic realm,qexploration,20,6,1500,EXPLORATION
+Dark Sorcerer,Defeat the dark sorcerer,qmagic,20,8,1950,MAGIC
+Warlord's Revenge,Stop the warlord's revenge,qcombat,20,8,1980,COMBAT
+Divine Protector,Defend the divine sanctuary,qdefense,20,7,1750,DEFENSE
+Eternal Journey,Complete the eternal journey,qexploration,20,6,1600,EXPLORATION
+Dragon King's Wrath,Defeat the dragon king,qcombat,21,9,2210,COMBAT
+Mystic Sanctum,Explore the mystic sanctum,qexploration,21,7,1850,EXPLORATION
+Guardian's Duty,Defend the sacred temple,qdefense,21,8,2100,DEFENSE
+Arcane Revelation,Uncover the arcane secrets,qmagic,21,9,2200,MAGIC
+Legendary Hunt,Hunt the legendary beast,qcombat,21,10,2210,COMBAT
+Frozen Abyss,Survive the frozen abyss expedition,qsurvival,21,6,1770,SURVIVAL
+Shadow Invasion,Infiltrate the shadow realm,qscout,21,7,2000,SCOUT
+Enchanter's Mastery,Master the art of enchanting,qmagic,21,7,2050,MAGIC
+Warrior's Final Siege,Lead the final siege on the enemy stronghold,qcombat,21,10,2210,COMBAT
+Sacred Forest Guard,Protect the sacred forest,qdefense,21,8,2100,DEFENSE
+Demon Overlord,Defeat the demon overlord,qcombat,22,10,2500,COMBAT
+Ancient Temple,Explore the ancient temple,qexploration,22,7,2000,EXPLORATION
+Mystic Conclave,Attend the grand mystic conclave,qmagic,22,8,2350,MAGIC
+Sky Palace,Explore the floating sky palace,qexploration,22,8,2200,EXPLORATION
+Warlord's Last Stand,Defeat the warlord's final army,qcombat,22,9,2450,COMBAT
+Cursed Citadel,Investigate the cursed citadel,qexploration,22,7,1950,EXPLORATION
+Alchemist's Masterpiece,Create the alchemist's masterpiece,qgathering,22,8,2150,GATHERING
+Mountain Guardian,Protect the mountain sanctuary,qdefense,22,9,2400,DEFENSE
+Sorcerer's Final Gambit,Win the sorcerer's final challenge,qmagic,22,9,2450,MAGIC
+Battle of Titans,Win the titanic battle,qcombat,22,10,2500,COMBAT
+Eternal Flame,Retrieve the eternal flame,qexploration,23,8,2250,EXPLORATION
+Dragon's Lair Assault,Conquer the dragon's lair,qcombat,23,10,2720,COMBAT
+Mystic Council Elder,Join the elder mystic council,qmagic,23,9,2500,MAGIC
+Titan's Wrath,Survive the titan's wrath,qcombat,23,10,2700,COMBAT
+Sacred Grove Defender,Protect the sacred grove from invasion,qdefense,23,9,2600,DEFENSE
+Crystal Caverns Expedition,Explore the crystal caverns,qexploration,23,8,2400,EXPLORATION
+Demon Fortress Conquest,Conquer the demon fortress,qcombat,24,10,2950,COMBAT
+Arcane Mastery Quest,Master the ultimate arcane arts,qmagic,24,9,2750,MAGIC
+King's Siege Final Battle,Lead the final siege on the king's castle,qcombat,24,10,2950,COMBAT
+Mythic Beast Slayer,Defeat the mythic beast once and for all,qcombat,24,10,2900,COMBAT
+Elder's Wisdom,Gain the elder's wisdom,qexploration,24,8,2600,EXPLORATION
+Guardian's Legacy Final,Defend the guardian's legacy in the final battle,qdefense,24,9,2850,DEFENSE
+Hero's Endgame Final,Complete the hero's journey in the ultimate trial,qcombat,25,10,3000,COMBAT
+Ancient Guardian's Bane,Defeat the ancient guardian in the ultimate showdown,qcombat,25,10,2950,COMBAT
+Mystic Realm Mastery,Explore and master the mystic realm,qexploration,25,8,2700,EXPLORATION
+Dark Sorcerer Showdown,Defeat the dark sorcerer in the final duel,qmagic,25,10,3000,MAGIC
+Warlord's Ultimate Revenge,Stop the warlord's ultimate revenge plot,qcombat,25,10,2980,COMBAT
+Divine Protector,Defend the divine sanctuary in the final stand,qdefense,25,9,2900,DEFENSE
+Eternal Journey Finale,Complete the eternal journey in the final chapter,qexploration,25,8,2750,EXPLORATION
